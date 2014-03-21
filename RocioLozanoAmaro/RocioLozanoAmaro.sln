@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCsharp", "AdvancedCsharp\AdvancedCsharp.csproj", "{E8BA10A3-5B2E-4FFE-99B0-ADD5D459076A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mehasvisto", "Mehasvisto\Mehasvisto.csproj", "{8832FF6B-FC13-449C-B2AC-22A6A05F754F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mehasvisto.Tests", "Mehasvisto.Tests\Mehasvisto.Tests.csproj", "{71DF70C8-D42C-4058-8DE3-E75E5120017D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8BA10A3-5B2E-4FFE-99B0-ADD5D459076A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BA10A3-5B2E-4FFE-99B0-ADD5D459076A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BA10A3-5B2E-4FFE-99B0-ADD5D459076A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BA10A3-5B2E-4FFE-99B0-ADD5D459076A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8832FF6B-FC13-449C-B2AC-22A6A05F754F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8832FF6B-FC13-449C-B2AC-22A6A05F754F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8832FF6B-FC13-449C-B2AC-22A6A05F754F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8832FF6B-FC13-449C-B2AC-22A6A05F754F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DF70C8-D42C-4058-8DE3-E75E5120017D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DF70C8-D42C-4058-8DE3-E75E5120017D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DF70C8-D42C-4058-8DE3-E75E5120017D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DF70C8-D42C-4058-8DE3-E75E5120017D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
